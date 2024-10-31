@@ -2,3 +2,5 @@ venv
 *.tsv
 !data/*.tsv
 *.ipynb_checkpoints*
+data/test_labels.tsv
+data/alpaca_cnv_predictions.ods

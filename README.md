@@ -4,6 +4,8 @@
 
 Predict pathogenicity of CNVs. Output should be a binary array (see section Submission)
 
+The optimization target is **ACCURACY**
+
 ## Data
 
 The `/data` directory contains 3 datasets. `train` and `validation` should be used for training.
